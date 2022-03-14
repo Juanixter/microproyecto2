@@ -1,0 +1,31 @@
+.datos{
+    max-width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.titulo {
+    max-width: 400px;
+    margin-top: 10px;
+}
+
+.lista-generos {
+    display: inline;
+    max-width: 200px;
+    margin-top: 10px;
+}
+
+.genero {
+    max-width: 200px;
+}
+
+.boton {
+    background-color: #0088f0;
+    color: white;
+    margin-top: 40px;
+}
+
+.registro {
+    display: block;
+    margin-top: 20px;
+}

@@ -1,0 +1,40 @@
+.tarjeta {
+    border-radius: 10px;
+    background-color: #3b3f3f;
+    box-shadow: 2px 2px gray;
+    width: 30rem;
+    padding: 8px;
+    margin-top: 15px;
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.tarjeta:hover {
+    box-shadow: 3px 3px #0771b7;
+}
+
+.imagen {
+    display: inline;
+}
+
+.datos {
+    display: inline;
+    float: right;
+}
+
+img {
+    max-width: 50%;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.detalles {
+    margin-top: 25px;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: #0088f0;
+}

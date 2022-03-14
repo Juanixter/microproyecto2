@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Syne+Tactile&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #292929;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    width: 1080px;
+    margin: 0 auto;
+}

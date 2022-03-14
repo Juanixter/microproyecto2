@@ -1,0 +1,18 @@
+.Contenedor {
+    margin-top: 20px;
+    display: block;
+    background-color: #3b3f3f;
+    box-shadow: 2px 2px gray;
+    padding: 10px;
+    height: 30px;
+}
+
+.component {
+    float: left;
+}
+
+.links {
+    display: block;
+    float: right;
+    margin-left: 20px;
+}

@@ -1,0 +1,14 @@
+.imagen {
+    max-width: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    display: inline-block;
+
+}
+
+.contenedor {
+    width: 40%;
+    display: inline;
+    margin-right: 30px;
+}
